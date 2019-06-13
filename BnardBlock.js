@@ -27,4 +27,4 @@
     window["FormatChat"]["fn"] = fn;
     window.alert(app + " activated.");
   }
-})("B'nardBlock", [/\([^()]*\b(b|b.rn([a@]rd|ie)?|gu[a@]rdi[a@]n)[^()]*\)/i]);
+})("B'nardBlock", [/\([^()]*\b(be*\b|b.rn([a@]rd|ie)?|gu[a@]rdi[a@]n)[^()]*\)/i]);
